@@ -33,10 +33,14 @@ class City
   }
 }
 
-//Create Object
+//Create city Object
 city = new City;
 //Init Cities
-city.loadcity("asset/kota.php",$('.city-init'));
+initCities();
+function initCities()
+{
+  city.loadcity("asset/kota.php",$('.city-init'));
+}
 
 $('.city-init').change(function(){
   //Get Target
