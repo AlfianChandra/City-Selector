@@ -1,0 +1,15 @@
+<option value="Kab. Banyuasin">Kab. Banyuasin</option>
+<option value="Kab. Empat Lawang">Kab. Empat Lawang</option>
+<option value="Kab. Lahat">Kab. Lahat</option>
+<option value="Kota Lubuk Linggau">Kota Lubuk Linggau</option>
+<option value="Kab. Muara Enim">Kab. Muara Enim</option>
+<option value="Kab. Musi Banyuasin">Kab. Musi Banyuasin</option>
+<option value="Kab. Musi Rawas">Kab. Musi Rawas</option>
+<option value="Kab. Ogan Ilir">Kab. Ogan Ilir</option>
+<option value="Kab. Ogan Komering Ilir">Kab. Ogan Komering Ilir</option>
+<option value="Kab. Ogan Komering Ulu">Kab. Ogan Komering Ulu</option>
+<option value="Kab. Ogan Komering Ulu Selatan">Kab. Ogan Komering Ulu Selatan</option>
+<option value="Kab. Ogan Komering Ulu Timur">Kab. Ogan Komering Ulu Timur</option>
+<option value="Kota Pagar Alam">Kota Pagar Alam</option>
+<option value="Kota Palembang">Kota Palembang</option>
+<option value="Kota Prabumulih">Kota Prabumulih</option>

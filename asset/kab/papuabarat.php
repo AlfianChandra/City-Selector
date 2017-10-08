@@ -1,0 +1,13 @@
+<option value="Kab. Fakfak">Kab. Fakfak</option>
+<option value="Kab. Kaimana">Kab. Kaimana</option>
+<option value="Kab. Manokwari">Kab. Manokwari</option>
+<option value="Kab. Manokwari Selatan">Kab. Manokwari Selatan</option>
+<option value="Kab. Maybrat">Kab. Maybrat</option>
+<option value="Kab. Pegunungan Arfak">Kab. Pegunungan Arfak</option>
+<option value="Kab. Raja Ampat">Kab. Raja Ampat</option>
+<option value="Kab. Sorong">Kab. Sorong</option>
+<option value="Kota Sorong">Kota Sorong</option>
+<option value="Kab. Sorong Selatan">Kab. Sorong Selatan</option>
+<option value="Kab. Tambrauw">Kab. Tambrauw</option>
+<option value="Kab. Teluk Bintuni">Kab. Teluk Bintuni</option>
+<option value="Kab. Teluk Wondama">Kab. Teluk Wondama</option>

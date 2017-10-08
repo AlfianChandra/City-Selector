@@ -1,0 +1,15 @@
+<option value="Kota Bitung">Kota Bitung</option>
+<option value="Kab. Bolaang Mongondow">Kab. Bolaang Mongondow</option>
+<option value="Kab. Bolaang Mongondow Selatan">Kab. Bolaang Mongondow Selatan</option>
+<option value="Kab. Bolaang Mongondow Timur">Kab. Bolaang Mongondow Timur</option>
+<option value="Kab. Bolaang Mongondow Utara">Kab. Bolaang Mongondow Utara</option>
+<option value="Kab. Kepulauan Sangihe">Kab. Kepulauan Sangihe</option>
+<option value="Kab. Kepulauan Siau Tagulandang Biaro">Kab. Kepulauan Siau Tagulandang Biaro</option>
+<option value="Kab. Kepulauan Talaud">Kab. Kepulauan Talaud</option>
+<option value="Kota Kotamobagu">Kota Kotamobagu</option>
+<option value="Kota Manado">Kota Manado</option>
+<option value="Kab. Minahasa">Kab. Minahasa</option>
+<option value="Kab. Minahasa Selatan">Kab. Minahasa Selatan</option>
+<option value="Kab. Minahasa Tenggara">Kab. Minahasa Tenggara</option>
+<option value="Kab. Minahasa Utara">Kab. Minahasa Utara</option>
+<option value="Kota Tomohon">Kota Tomohon</option>

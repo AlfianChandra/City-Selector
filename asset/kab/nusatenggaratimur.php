@@ -1,8 +1,21 @@
-<?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+<option value="Kab. Alor">Kab. Alor</option>
+<option value="Kab. Belu">Kab. Belu</option>
+<option value="Kab. Ende">Kab. Ende</option>
+<option value="Kab. Flores Timur">Kab. Flores Timur</option>
+<option value="Kab. Kupang">Kab. Kupang</option>
+<option value="Kota Kupang">Kota Kupang</option>
+<option value="Kab. Lembata">Kab. Lembata</option>
+<option value="Kab. Manggarai">Kab. Manggarai</option>
+<option value="Kab. Manggarai Barat">Kab. Manggarai Barat</option>
+<option value="Kab. Manggarai Timur">Kab. Manggarai Timur</option>
+<option value="Kab. Nagekeo">Kab. Nagekeo</option>
+<option value="Kab. Ngada">Kab. Ngada</option>
+<option value="Kab. Rote Ndao">Kab. Rote Ndao</option>
+<option value="Kab. Sabu Raijua">Kab. Sabu Raijua</option>
+<option value="Kab. Sikka">Kab. Sikka</option>
+<option value="Kab. Sumba Barat">Kab. Sumba Barat</option>
+<option value="Kab. Sumba Barat Daya">Kab. Sumba Barat Daya</option>
+<option value="Kab. Sumba Tengah">Kab. Sumba Tengah</option>
+<option value="Kab. Sumba Timur">Kab. Sumba Timur</option>
+<option value="Kab. Timor Tengah Selatan">Kab. Timor Tengah Selatan</option>
+<option value="Kab. Timor Tengah Utara">Kab. Timor Tengah Utara</option>
