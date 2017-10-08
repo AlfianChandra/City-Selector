@@ -21,6 +21,10 @@ class City
       type:"get",
       cache:false,
       async:true,
+      beforeSend:function()
+      {
+        $(target).html("<option>Mohon tunggu...</option>");
+      },
       success:function(res)
       {
         $(target).html(res);
