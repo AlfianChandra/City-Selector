@@ -36,9 +36,7 @@ class City
 //Create Object
 city = new City;
 //Init Cities
-$(window).load(function(){
-  city.loadcity("asset/kota.php",$('.city-init'));
-});
+city.loadcity("asset/kota.php",$('.city-init'));
 
 $('.city-init').change(function(){
   //Get Target
