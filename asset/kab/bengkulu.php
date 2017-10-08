@@ -1,0 +1,10 @@
+<option value="Kota Bengkulu">Kota Bengkulu</option>
+<option value="Kab. Bengkulu Selatan">Kab. Bengkulu Selatan</option>
+<option value="Kab. Bengkulu Tengah">Kab. Bengkulu Tengah</option>
+<option value="Kab. Bengkulu Utara">Kab. Bengkulu Utara</option>
+<option value="Kab. Kaur">Kab. Kaur</option>
+<option value="Kab. Kepahiang">Kab. Kepahiang</option>
+<option value="Kab. Lebong">Kab. Lebong</option>
+<option value="Kab. Muko Muko">Kab. Muko Muko</option>
+<option value="Kab. Rejang Lebong">Kab. Rejang Lebong</option>
+<option value="Kab. Seluma">Kab. Seluma</option>

@@ -1,0 +1,9 @@
+<option value="Kab. Halmahera Barat">Kab. Halmahera Barat</option>
+<option value="Kab. Halmahera Selatan">Kab. Halmahera Selatan</option>
+<option value="Kab. Halmahera Tengah">Kab. Halmahera Tengah</option>
+<option value="Kab. Halmahera Timur">Kab. Halmahera Timur</option>
+<option value="Kab. Halmahera Utara">Kab. Halmahera Utara</option>
+<option value="Kab. Kepulauan Sula">Kab. Kepulauan Sula</option>
+<option value="Kab. Pulau Morotai">Kab. Pulau Morotai</option>
+<option value="Kota Ternate">Kota Ternate</option>
+<option value="Kota Tidore Kepulauan">Kota Tidore Kepulauan</option>

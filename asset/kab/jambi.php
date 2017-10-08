@@ -1,0 +1,11 @@
+<option value="Kab. Batang Hari">Kab. Batang Hari</option>
+<option value="Kab. Bungo">Kab. Bungo</option>
+<option value="Kota Jambi">Kota Jambi</option>
+<option value="Kab. Kerinci">Kab. Kerinci</option>
+<option value="Kab. Merangin">Kab. Merangin</option>
+<option value="Kab. Muaro Jambi">Kab. Muaro Jambi</option>
+<option value="Kab. Sarolangun">Kab. Sarolangun</option>
+<option value="Kota Sungaipenuh">Kota Sungaipenuh</option>
+<option value="Kab. Tanjung Jabung Barat">Kab. Tanjung Jabung Barat</option>
+<option value="Kab. Tanjung Jabung Timur">Kab. Tanjung Jabung Timur</option>
+<option value="Kab. Tebo">Kab. Tebo</option>

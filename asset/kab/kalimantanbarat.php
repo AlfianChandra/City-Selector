@@ -1,0 +1,14 @@
+<option value="Kab. Bengkayang">Kab. Bengkayang</option>
+<option value="Kab. Kapuas Hulu">Kab. Kapuas Hulu</option>
+<option value="Kab. Kayong Utara">Kab. Kayong Utara</option>
+<option value="Kab. Ketapang">Kab. Ketapang</option>
+<option value="Kab. Kubu Ray">Kab. Kubu Raya</option>
+<option value="Kab. Landak">Kab. Landak</option>
+<option value="Kab. Melawi">Kab. Melawi</option>
+<option value="Kab. Pontianak">Kab. Pontianak</option>
+<option value="Kota Pontianak">Kota Pontianak</option>
+<option value="Kab. Sambas">Kab. Sambas</option>
+<option value="Kab. Sanggau">Kab. Sanggau</option>
+<option value="Kab. Sekadau">Kab. Sekadau</option>
+<option value="Kota Singkawang">Kota Singkawang</option>
+<option value="Kab. Sintang">Kab. Sintang</option>

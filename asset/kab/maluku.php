@@ -1,0 +1,11 @@
+<option value="Kota Ambon">Kota Ambon</option>
+<option value="Kab. Buru">Kab. Buru</option>
+<option value="Kab. Buru Selatan">Kab. Buru Selatan</option>
+<option value="Kab. Kepulauan Aru">Kab. Kepulauan Aru</option>
+<option value="Kab. Maluku Barat Daya">Kab. Maluku Barat Daya</option>
+<option value="Kab. Maluku Tengah">Kab. Maluku Tengah</option>
+<option value="Kab. Maluku Tenggara">Kab. Maluku Tenggara</option>
+<option value="Kab. Maluku Tenggara Barat">Kab. Maluku Tenggara Barat</option>
+<option value="Kab. Seram Bagian Barat">Kab. Seram Bagian Barat</option>
+<option value="Kab. Seram Bagian Timur">Kab. Seram Bagian Timur</option>
+<option value="Kota Tual">Kota Tual</option>

@@ -1,0 +1,9 @@
+<option value="Kota Balikpapan">Kota Balikpapan</option>
+<option value="Kab. Berau">Kab. Berau</option>
+<option value="Kota Bontang">Kota Bontang</option>
+<option value="Kab. Kutai Barat">Kab. Kutai Barat</option>
+<option value="Kab. Kutai Kartanegara">Kab. Kutai Kartanegara</option>
+<option value="Kab. Kutai Timur">Kab. Kutai Timur</option>
+<option value="Kab. Paser">Kab. Paser</option>
+<option value="Kab. Penajam Paser Utara">Kab. Penajam Paser Utara</option>
+<option value="Kota Samarinda">Kota Samarinda</option>

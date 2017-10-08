@@ -1,0 +1,10 @@
+<option value="Kab. Bima">Kab. Bima</option>
+<option value="Kota Bima">Kota Bima</option>
+<option value="Kab. Dompu">Kab. Dompu</option>
+<option value="Kab. Lombok Barat">Kab. Lombok Barat</option>
+<option value="Kab. Lombok Tengah">Kab. Lombok Tengah</option>
+<option value="Kab. Lombok Timur">Kab. Lombok Timur</option>
+<option value="Kab. Lombok Utara">Kab. Lombok Utara</option>
+<option value="Kota Mataram">Kota Mataram</option>
+<option value="Kab. Sumbawa">Kab. Sumbawa</option>
+<option value="Kab. Sumbawa Barat">Kab. Sumbawa Barat</option>

@@ -1,0 +1,14 @@
+<option value="Kab. Barito Selatan">Kab. Barito Selatan</option>
+<option value="Kab. Barito Timur">Kab. Barito Timur</option>
+<option value="Kab. Barito Utara">Kab. Barito Utara</option>
+<option value="Kab. Gunung Mas">Kab. Gunung Mas</option>
+<option value="Kab. Kapuas">Kab. Kapuas</option>
+<option value="Kab. Katingan">Kab. Katingan</option>
+<option value="Kab. Kotawaringin Barat">Kab. Kotawaringin Barat</option>
+<option value="Kab. Kotawaringin Timur">Kab. Kotawaringin Timur</option>
+<option value="Kab. Lamandau">Kab. Lamandau</option>
+<option value="Kab. Murung Raya">Kab. Murung Raya</option>
+<option value="Kota Palangka Raya">Kota Palangka Raya</option>
+<option value="Kab. Pulang Pisau">Kab. Pulang Pisau</option>
+<option value="Kab. Seruyan">Kab. Seruyan</option>
+<option value="Kab. Sukamara">Kab. Sukamara</option>

@@ -1,0 +1,15 @@
+<option value="Kota Bandar Lampung">Kota Bandar Lampung</option>
+<option value="Kab. Lampung Barat">Kab. Lampung Barat</option>
+<option value="Kab. Lampung Selatan">Kab. Lampung Selatan</option>
+<option value="Kab. Lampung Tengah">Kab. Lampung Tengah</option>
+<option value="Kab. Lampung Timur">Kab. Lampung Timur</option>
+<option value="Kab. Lampung Utara">Kab. Lampung Utara</option>
+<option value="Kab. Mesuji">Kab. Mesuji</option>
+<option value="Kota Metro">Kota Metro</option>
+<option value="Kab. Pesawaran">Kab. Pesawaran</option>
+<option value="Kab. Pesisir Barat">Kab. Pesisir Barat</option>
+<option value="Kab. Pringsewu">Kab. Pringsewu</option>
+<option value="Kab. Tanggamus">Kab. Tanggamus</option>
+<option value="Kab. Tulang Bawang">Kab. Tulang Bawang</option>
+<option value="Kab. Tulang Bawang Barat">Kab. Tulang Bawang Barat</option>
+<option value="Kab. Way Kanan">Kab. Way Kanan</option>

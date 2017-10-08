@@ -1,0 +1,13 @@
+<option value="Kab. Balangan">Kab. Balangan</option>
+<option value="Kab. Banjar">Kab. Banjar</option>
+<option value="Kota Banjarbaru">Kota Banjarbaru</option>
+<option value="Kota Banjarmasin">Kota Banjarmasin</option>
+<option value="Kab. Barito Kuala">Kab. Barito Kuala</option>
+<option value="Kab. Hulu Sungai Selatan">Kab. Hulu Sungai Selatan</option>
+<option value="Kab. Hulu Sungai Tengah">Kab. Hulu Sungai Tengah</option>
+<option value="Kab. Hulu Sungai Utara">Kab. Hulu Sungai Utara</option>
+<option value="Kab. Kotabaru">Kab. Kotabaru</option>
+<option value="Kab. Tabalong">Kab. Tabalong</option>
+<option value="Kab. Tanah Bumbu">Kab. Tanah Bumbu</option>
+<option value="Kab. Tanah Laut">Kab. Tanah Laut</option>
+<option value="Kab. Tapin">Kab. Tapin</option>
